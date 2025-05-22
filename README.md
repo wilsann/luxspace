@@ -1,6 +1,10 @@
 # 🛋️ LuxSpace – Furniture Online Store Mockup
 
+<img src=”/src/images/lux-1.png”>
+
 LuxSpace adalah sebuah website mockup untuk toko online furniture yang dirancang dengan tampilan modern dan elegan. Proyek ini merupakan hasil eksplorasi front-end menggunakan **HTML5**, **Tailwind CSS**, dan **JavaScript** tanpa framework tambahan, untuk menunjukkan pemahaman terhadap layout responsif dan styling utility-first.
+
+<img src=”/src/images/lux-2.PNG”>
 
 ## ✨ Fitur Utama
 
@@ -25,16 +29,16 @@ Kunjungi versi live dari proyek ini di sini:
 
 ## 📁 Struktur Proyek
 
-luxspace/
-├── dist/
-├── src/
-│ ├── images/
-│ ├── css/
-│ └── js/
-│ └── template/
-│     └── index.html
-├── tailwind.config.js
-└── webpack configs
+luxspace/ <br />
+├── dist/ <br />
+├── src/ <br />
+│ ├── images/ <br />
+│ ├── css/ <br />
+│ └── js/ <br />
+│ └── template/ <br />
+│     └── index.html <br />
+├── tailwind.config.js <br />
+└── webpack configs <br />
 
 ```bash
 npm install
